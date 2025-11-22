@@ -20,3 +20,4 @@ def get_guess():
         return int(guess)
     else:
         return None
+
