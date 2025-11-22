@@ -15,3 +15,4 @@ def check_guess(target, guess):
         return "TOO HIGH"
     return "TOO LOW"
 
+
